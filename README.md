@@ -1,2 +1,2 @@
-# SimplePricerCode
-A simple financial analysis project. Python code project that acts as a pricer for selected stocks/ options/ swaps
+# StandardOptionPricerCode
+A simple financial analysis project on europeen options, and options on futures. A straightforward Python code use case hat acts as a pricer for selected Options
