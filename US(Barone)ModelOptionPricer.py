@@ -3,7 +3,7 @@ import numpy as np
 from scipy.stats import norm
 
 # N(x) is the cumulative distribution function for a standard normal distribution
-
+N = norm.cdf
 def black_scholes_call_put(S, K, T, r, sigma, q=0):
     """
     Args:
